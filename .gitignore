@@ -4,6 +4,19 @@ yarn.lock
 *.swp
 npm-debug.log*
 dist
+# Generated proxy subpackage dirs (scripts/proxy-dirs.js); see subpackages.js
+/client
+/core
+/debug
+/react
+/react-native
+/ai
+/plugins
+/master
+/multiplayer
+/internal
+/testing
+/server
 node_modules
 coverage
 .coveralls.yml
